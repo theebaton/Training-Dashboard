@@ -1,0 +1,5 @@
+{
+  "name": "Training Dashboard",
+  "description": "An interactive dashboard displaying upcoming training courses and workshops.",
+  "requestFramePermissions": []
+}
